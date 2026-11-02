@@ -1,0 +1,15 @@
+winget install --id Git.Git -e --source winget
+winget install --id GitHub.cli -e --source winget
+
+
+1. Install git and github
+2. Login into github through terminal.
+3. Initialize your local folder
+4. Add and commit the project 
+5. Create branch main
+6. Create a repository
+7. Add that remote repo to your local folder.
+8. Confirm it is established. (git remote -v)
+9. Push the code to main branch
+10. Modify the file and switch to backup branch
+11. Push it to the backup branch

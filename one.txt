@@ -1,1 +1,3 @@
-testing backup and not main
+<<<<<<< HEAD
+Testing the folder after merging.
+>>>>>>> origin/main
